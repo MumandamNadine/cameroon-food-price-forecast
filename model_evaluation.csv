@@ -1,0 +1,11 @@
+product,method,MAE_XAF_per_kg,MAPE_percent
+Beans,Seasonal naive,92.17,14.69
+Beans,Previous month,46.9,7.58
+Beans,Three-month average,40.36,6.71
+Beans,Random Forest,34.11,5.59
+Beans,Exponential Smoothing,73.15,11.97
+Maize,Seasonal naive,30.28,11.64
+Maize,Previous month,11.66,4.41
+Maize,Three-month average,12.29,4.7
+Maize,Random Forest,11.66,4.42
+Maize,Exponential Smoothing,27.58,11.06
